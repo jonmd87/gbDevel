@@ -32,6 +32,7 @@
 
 #### Как удалить ветку после *git merge*
 1. в ветке мастер вводим команду _**git branch -d**  "имя ветки"_
+2. **git push origin :<remote branch name>** - удаляет ветку на github.com
 
 **git pull** *подтягивает актуальные файды с git*
 
